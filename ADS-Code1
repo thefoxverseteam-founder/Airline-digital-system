@@ -1,0 +1,8 @@
+{
+"name":"airline-digital-system",
+"version":"0.1.0-foundation",
+"private":true,
+"description":Configurable Airline digital Commerce & Customer-Experience System--core product foundation.","type":"module"
+{"scripts":"dev":"vite","build":"tsc-b && vite build","preview":vite preview","test:"vites run"
+}
+"dependencies":{
